@@ -1,12 +1,3 @@
---[[
-    JJSPLOIT SPECIFIC EXAMPLE
-    
-    This example is optimized for jjsploit and demonstrates
-    common use cases for the UILibrary in jjsploit scripts.
-]]
-
--- Load the library
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/lua-ui-library/main/UILibrary.lua"))()
 
 -- Create UI
 local UI = UILibrary.new("jjsploit Script", "v1.0")
